@@ -1,3 +1,7 @@
 [submodule "Problem-3"]
 	path = Problem3/email-project
 	url = https://github.com/jaehobahng/6700-assignment1-problem3.git
+
+[submodule "Problem-4"]
+	path = Problem4/iris
+	url = https://github.com/jaehobahng/6700-assignment1-problem4.git
